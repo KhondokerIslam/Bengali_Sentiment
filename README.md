@@ -1,1 +1,1 @@
-This work was submitted to ICCIT 2020.
+This work was accepted in ICCIT 2020.
